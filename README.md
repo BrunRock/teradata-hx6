@@ -1,0 +1,1 @@
+# teradata-hx6
